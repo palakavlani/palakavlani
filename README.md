@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **E-Commerce website**
 
-- 
-
 - 🌱 I’m currently learning **Full Stack WebDevelopment**
 
 - 🤝 I’m looking for help with **Payment integration**
