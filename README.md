@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Palak Avlani</h1>
-<h3 align="center">Btech CE graduate. Passionate. Learner. Good communication.</h3>
+<h3 align="center">Btech CE graduate. Passionate. Learner.</h3>
+<h3> JAVA DEVELOPER </h3>
 
-- 🔭 I’m currently working on **E-Commerce website**
 
-- 🌱 I’m currently learning **Full Stack WebDevelopment**
+- 👨‍💻A simple view of my portfolio. [palakavlani.github.io/portfolio/](https://palakavlani.github.io/portfolio/)
 
-- 🤝 I’m looking for help with **Payment integration**
-
-- 👨‍💻 All of my projects are available at [palakavlani.github.io/portfolio/](https://palakavlani.github.io/portfolio/)
-
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **JAVA, Springboot, rabbitMq, Caching, Scheduling, Security, Python, MySql, Postgres, Etc.**
 
 - 📫 How to reach me **palakavlani03@gmail.com**
 
