@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://palakavlani.github.io/portfolio/">Portfolio</a> • 
-  <a href="https://linkedin.com/in/in/palak-avlani-0652b123a">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/palak-avlani-0652b123a/">LinkedIn</a> • 
   <a href="mailto:palakavlani03@gmail.com">Email</a>
 </p>
 
@@ -28,10 +28,9 @@ While my core expertise is in Java ecosystem, I am versatile and have experience
 **Primary Stack: Backend Engineering**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 **Data, Infrastructure & Tools**
@@ -58,11 +57,9 @@ While my core expertise is in Java ecosystem, I am versatile and have experience
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=palakavlani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="palakavlani stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=palakavlani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
 </p>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palakavlani&theme=radical&hide_border=true" alt="streak stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=palakavlani&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=palakavlani&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </p>
